@@ -1,4 +1,4 @@
-# 👋 Born to build, learn, and refine.
+# 👾 Born to build, learn, and refine.
 
 ## 🧠 About Me
 - Focused on **developing useful, efficient applications** and **systems thinking**
